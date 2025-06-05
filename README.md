@@ -1,13 +1,13 @@
 # Aircraft risk analysis
 
-![Alt text describing the image](images/miguel-angel-sanz-yXE0zybDr-I-unsplash.jpg)
+![airplane image](images/miguel-angel-sanz-yXE0zybDr-I-unsplash.jpg)
 
 # Overview
 This project aims to analyze historical aviation data from the National Transportation Safety Board (NTSB) spanning from 1962 to 2023. The dataset gathers near 88 889 records on aviation event. The project caters to a primary audience, the business stakeholders who need intuitve summaries and clear recommendations. The ultimate goal is to translate the findings into clear and actionable insights that support safer operational strategies.
 
 # Business understanding
 ## Business problem
-![Alt text describing the image](images/robert-aardenburg-gnT4IGRS_1g-unsplash.jpg)
+![flying airplane](images/robert-aardenburg-gnT4IGRS_1g-unsplash.jpg)
 A company is expanding into new industries to diversify its portfolio and has identified aviation as a promising area for investment. The company plans to purchase and operate airplanes for both commercial and private use. However, it currently lacks expertise in aviation safety and wants to understand the potential risks associated with different types of aircraft before making any purchases.
 
 ## Stakeholders
