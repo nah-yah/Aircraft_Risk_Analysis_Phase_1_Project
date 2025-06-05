@@ -1,13 +1,13 @@
 # Aircraft risk analysis
 
-![Alt text describing the image](\images\miguel-angel-sanz-yXE0zybDr-I-unsplash.jpg)
+![Alt text describing the image](images/miguel-angel-sanz-yXE0zybDr-I-unsplash.jpg)
 
 # Overview
 This project aims to analyze historical aviation data from the National Transportation Safety Board (NTSB) spanning from 1962 to 2023. The dataset gathers near 88 889 records on aviation event. The project caters to a primary audience, the business stakeholders who need intuitve summaries and clear recommendations. The ultimate goal is to translate the findings into clear and actionable insights that support safer operational strategies.
 
 # Business understanding
 ## Business problem
-![Alt text describing the image](\images\robert-aardenburg-gnT4IGRS_1g-unsplash.jpg)
+![Alt text describing the image](images/robert-aardenburg-gnT4IGRS_1g-unsplash.jpg)
 A company is expanding into new industries to diversify its portfolio and has identified aviation as a promising area for investment. The company plans to purchase and operate airplanes for both commercial and private use. However, it currently lacks expertise in aviation safety and wants to understand the potential risks associated with different types of aircraft before making any purchases.
 
 ## Stakeholders
@@ -34,17 +34,17 @@ Each record represents an individual aviation incident or accident and includes 
 
 ## Visualizations
 1. Manufacturers with highest number of accidents count
-![Graph representing the manufacturers with the highest number of accidents](\images\accidents_analysis_by_aircraft_manufacturers.png)
+![Graph representing the manufacturers with the highest number of accidents](images/accidents_analysis_by_aircraft_manufacturers.png)
 
 Some manufacturers has a disproportionately high number of destroyed aircraft in accidents. Planes from those manufacturers may cost more to insure and repair which could affect long-term operational costs.
 
 2. Models with the highest fatality rate
-![Graph representing the models with the highest fatality rate](\images\fatality_rate_by_aircraft.png)
+![Graph representing the models with the highest fatality rate](images/fatality_rate_by_aircraft.png)
 
 Model like the Piper PA-31T has higher fatality rates compared to others with similar accident counts. Even if a model has fewer accidents, a high fatality rate suggests increased risk.
 
 1. Type of built with safest track records
-![Graph representing the type of built with safest records](\images\accidents_analysis_by_built_type.png)
+![Graph representing the type of built with safest records](images/accidents_analysis_by_built_type.png)
 
 Amateur-built aircraft has a higher fatality rate despite being involved in fewer overall accidents. Unless there’s a compelling reason to buy amateur-built aircraft, factory-built planes appear safer and more predictable in terms of risk.
 
